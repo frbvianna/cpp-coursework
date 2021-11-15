@@ -1,0 +1,4 @@
+bin
+.codelite
+.vscode
+*.code-workspace
